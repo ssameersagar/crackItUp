@@ -16,7 +16,7 @@ const Footer = props => {
                     <Link to="/myprofile">Profile</Link> ·
                 </p>
 
-                <p class="footer-company-name">Amarsh Jain &copy; 2020</p>
+                <p class="footer-company-name">Sameer Sagar Sen &copy; 2020</p>
                 </div>
 
                 <div class="footer-center">
@@ -28,7 +28,7 @@ const Footer = props => {
 
                 <div>
                     <i class="fa fa-phone"></i>
-                    <p>+91-7894045499</p>
+                    <p>+91-7879181003</p>
                 </div>
 
                 <div>
@@ -46,10 +46,9 @@ const Footer = props => {
 
                 <div class="footer-icons">
 
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-linkedin"></i></a>
-                    <a href="#"><i class="fab fa-github"></i></a>
+                    <a href="https://www.facebook.com/sameersagar.sen/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.linkedin.com/in/sameer-sagar-sen-ab3160199/"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/ssameersagar"><i class="fab fa-github"></i></a>
 
                 </div>
 
